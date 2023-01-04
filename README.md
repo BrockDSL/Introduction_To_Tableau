@@ -1,7 +1,3 @@
----
-title: "Introduction to Tableau"
----
-
 ![Tool Logo](Intro-Tableau.jpg)
 
 
