@@ -10,6 +10,7 @@ No prior experience with Tableau is needed for this workshop.
 
 ----
 
+
 ## Setup Instructions
 In preparation for this workshop, you will need to download and install the latest version of Tableau Public which can be done using the link below (keep in mind that you may need to contact your institution for permission to install programs).
   
