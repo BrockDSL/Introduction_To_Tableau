@@ -1,7 +1,7 @@
 ![Tool Logo](Intro-Tableau.jpg)
 
 
-# Introduction to Tableau Part 1
+# Introduction to Tableau
 This workshop will introduce the most basic functions of Tableau Public such as connecting to a dataset and building sheets, dashboards, and story's.  This session will also cover how to publish your work to Tableau Public Online and how to share and download it from there.
 
 No prior experience with Tableau is needed for this workshop.
