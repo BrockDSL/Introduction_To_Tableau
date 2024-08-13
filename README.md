@@ -18,9 +18,9 @@ In preparation for this workshop, you will need to download and install the late
 
 You will also need to download the two excel workbooks used in this workshop by using the links below:
 
-[Dataset 1 - Mahogany Mary Sales Data](https://github.com/BrockDSL/Introduction-To-Tableau-Part-1/raw/master/Workshop%20Datasets/Mahogany%20Mary%202018%20Sales%20Data.xlsx)  
+[Dataset 1 - Mahogany Mary Sales Data](https://github.com/BrockDSL/Introduction_To_Tableau/raw/main/Workshop%20Datasets/Mahogany%20Mary%202018%20Sales%20Data.xlsx)  
   
-[Dataset 2 - Customer Satisfaction Data](https://github.com/BrockDSL/Introduction-To-Tableau-Part-1/raw/master/Workshop%20Datasets/Customer%20Satisfaction%20Mahogany%20Mary%202018.xlsx)
+[Dataset 2 - Customer Satisfaction Data](https://github.com/BrockDSL/Introduction_To_Tableau/raw/main/Workshop%20Datasets/Customer%20Satisfaction%20Mahogany%20Mary%202018.xlsx)
 
 Lastly, you will need to sign up for a free Tableau Public account if you do not already have one.  You can sign up for a new account [Here](https://public.tableau.com/app/discover?authMode=signUp)
 
